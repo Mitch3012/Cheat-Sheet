@@ -1,0 +1,52 @@
+h1 {
+  color: Black;
+  text-align: center;
+}
+
+h2 {
+  color: Maroon;
+  text-align: center;
+}
+
+body, title {
+  font-family: Candara;
+}
+
+.tag {
+  background-color: PapayaWhip;
+}
+
+body {
+  background-image:url(https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixlib=rb-1.2.1&w=1000&q=80);
+  background-size: cover;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid black;
+  width: 90%;
+}
+
+th {
+  background-color: rgba(205, 92, 92, 0.6);
+  border: 1px solid black;
+}
+
+tr {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid gray;
+  padding: 4px;
+}
+
+tr, td {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+footer {
+  font-style: italic;
+  letter-spacing: -0.06em;
+}
